@@ -1,4 +1,4 @@
-## Welcome to the CEdR Group at BITS Goa
+# Welcome to the CEdR Group at BITS Goa
 
 <!--
 
